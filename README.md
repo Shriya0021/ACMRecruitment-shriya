@@ -1,2 +1,2 @@
 # ACMRecruitment-shriya
-This is created for ACM recruitment.
+This repository is created for ACM recruitment tasks.
