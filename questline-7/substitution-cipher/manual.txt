@@ -1,1 +1,2 @@
-
+Encoded result of RECRUIT with shift of +3: UHFUXLW
+Decoded result of ZHOFRPH with shift of -3: WELCOME
