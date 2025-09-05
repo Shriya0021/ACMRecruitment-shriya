@@ -5,9 +5,3 @@ By following the first rule I kept 2 in the other blank.
 In the third row, 2nd position, only 4 is left to get a position in that column. In the next 2 spaces I filled 1 and 2 because by doing so, the column rule is not violated.
 I filled the remaining slots with remaining no.s column wise.i.e; 2,4,3
 
-The final answer that I got is
-
-1  2  3  4
-4  3  2  1 
-3  4  1  2
-2  1  4  3
