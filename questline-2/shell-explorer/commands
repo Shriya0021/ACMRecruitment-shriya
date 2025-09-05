@@ -1,0 +1,5 @@
+ls -l: list of all the files with permissions
+pwd: current working directory
+grep: used to find something in a given text
+wc: gives the word count
+chmod: modifies the permission
